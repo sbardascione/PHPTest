@@ -30,3 +30,13 @@
 </VirtualHost>
 
 ```
+
+## Hosts
+
+	Modificare il file hosts in modo che "phptest.local" punti a localhost
+
+
+## Test
+
+	visitare phptest.local
+
